@@ -1,0 +1,24 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>First test in TopLearn corse</h1>
+    <form action="./App.js" name="name" method="POST" onsubmit="return MyFunction()">
+        Name : <input name="fName" type="text">
+        <input type="submit" value="Submit">
+    </form>
+
+</body>
+<script>
+    function MyFunction (){
+        var x = document.forms["name"]["fName"].value;
+        if(x==""){
+            alert("please enter Name filed");
+            return false;
+        }
+    }
+</script>
+</html>

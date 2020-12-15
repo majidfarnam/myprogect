@@ -1,0 +1,29 @@
+.SideDrawer{
+    height: 100%;
+    width: 70%;
+    position: fixed;
+    right: 0;
+    top: 0;
+    z-index: 600;
+    background-color: rgb(80, 180, 133);
+    text-align: center;
+    align-items: center;
+    padding: 30px 15px;
+    transition: transform 0.3s ease-out;
+    box-sizing: border-box;
+}
+@media(min-width:500px){
+    .SideDrawer{
+    display: none;
+    }
+}
+.img{
+    width: 10%;
+    height: auto;
+}
+.Open{
+    transform: translateX(0);
+}
+.Close{
+    transform: translateX(100%);
+}

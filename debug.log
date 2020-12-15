@@ -1,0 +1,30 @@
+[1012/201914.770:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1013/003939.733:ERROR:process_reader_win.cc(127)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[1013/003939.733:ERROR:process_reader_win.cc(127)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[1013/003939.733:ERROR:process_reader_win.cc(127)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[1013/003939.686:ERROR:process_reader_win.cc(127)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[1013/003939.686:ERROR:process_reader_win.cc(127)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[1013/003939.842:ERROR:exception_snapshot_win.cc(100)] thread ID 2904 not found in process
+[1013/003939.686:ERROR:process_reader_win.cc(127)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[1013/003939.749:ERROR:process_reader_win.cc(127)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[1013/003939.842:ERROR:exception_snapshot_win.cc(100)] thread ID 3608 not found in process
+[1013/003939.842:ERROR:exception_snapshot_win.cc(100)] thread ID 15044 not found in process
+[1013/003939.842:ERROR:exception_snapshot_win.cc(100)] thread ID 11440 not found in process
+[1013/003939.842:ERROR:exception_snapshot_win.cc(100)] thread ID 1236 not found in process
+[1013/003939.686:ERROR:process_reader_win.cc(127)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[1013/003939.842:ERROR:exception_snapshot_win.cc(100)] thread ID 6776 not found in process
+[1013/003939.686:ERROR:process_reader_win.cc(127)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[1013/003939.842:ERROR:exception_snapshot_win.cc(100)] thread ID 12712 not found in process
+[1013/003939.733:ERROR:process_reader_win.cc(127)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[1013/003939.842:ERROR:exception_snapshot_win.cc(100)] thread ID 7376 not found in process
+[1013/003939.842:ERROR:exception_snapshot_win.cc(100)] thread ID 15416 not found in process
+[1013/003939.842:ERROR:exception_snapshot_win.cc(100)] thread ID 15900 not found in process
+[1013/003942.670:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\webvaster\AppData\Local\Microsoft\Edge\User Data\Crashpad\attachments\9e0f5623-d6b0-4f6b-8427-2e8bc3d1bef5: The system cannot find the path specified. (0x3)
+[1013/003942.686:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\webvaster\AppData\Local\Microsoft\Edge\User Data\Crashpad\attachments\80ea7f68-d0dd-4bbc-b611-2cc202cb7474: The system cannot find the path specified. (0x3)
+[1013/003942.702:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\webvaster\AppData\Local\Microsoft\Edge\User Data\Crashpad\attachments\f2f791af-a938-4129-90e1-f03a067b6d09: The system cannot find the path specified. (0x3)
+[1013/003942.717:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\webvaster\AppData\Local\Microsoft\Edge\User Data\Crashpad\attachments\65acab2a-b1ed-448e-8005-ff4e05399c6b: The system cannot find the path specified. (0x3)
+[1013/003942.733:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\webvaster\AppData\Local\Microsoft\Edge\User Data\Crashpad\attachments\190b74ff-5da0-4635-9266-1f2d1454a65a: The system cannot find the path specified. (0x3)
+[1013/003942.749:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\webvaster\AppData\Local\Microsoft\Edge\User Data\Crashpad\attachments\e23d9607-411a-4585-a2ba-6e60a2599cdb: The system cannot find the path specified. (0x3)
+[1013/003942.764:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\webvaster\AppData\Local\Microsoft\Edge\User Data\Crashpad\attachments\2e7dc526-d8ed-4d60-b6aa-da78c276a49a: The system cannot find the path specified. (0x3)
+[1013/003942.780:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\webvaster\AppData\Local\Microsoft\Edge\User Data\Crashpad\attachments\02bed1d1-7a70-42bb-9234-cf09414f02a7: The system cannot find the path specified. (0x3)
+[1013/003942.795:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\webvaster\AppData\Local\Microsoft\Edge\User Data\Crashpad\attachments\ab6d4d7a-70db-45aa-a88f-2c2c34491954: The system cannot find the path specified. (0x3)
